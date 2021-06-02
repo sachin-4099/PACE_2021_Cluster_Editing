@@ -16,3 +16,8 @@ python3 clip.py
 ```
 
 ## Description
+We convert the cluster editing problem into an integer linear program (ILP) using [1]. We use an open source ILP solver CBC (https://github.com/coin-or/Cbc) to solve the ILP formed in the previous step.  
+
+
+
+1. L. H. N. Lorena, M. G. Quiles, A. C. P. L. F. Carvalho, and L. A. N. Lorena: Preprocessing Technique for Cluster Editing via Integer Linear Programming, Intelligent Computing Theories and Application, pp.287-297, 2018.
