@@ -17,4 +17,4 @@ pip install pulp
 python3 clip.py
 ```
 
-## Algorithm
+## Description
