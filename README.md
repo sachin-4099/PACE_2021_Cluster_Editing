@@ -8,9 +8,7 @@ The cluster editing problem consists of removing or inserting as few edges to an
 
 ## Compilation & Usage
 
-The whole program is contained in a single python file.
-
-You can use it as follows:
+To run:
 
 ```
 pip install pulp
